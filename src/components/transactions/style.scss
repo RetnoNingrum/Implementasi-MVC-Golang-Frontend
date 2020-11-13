@@ -11,3 +11,10 @@
         border-color: grey;
     }
 }
+
+th {
+    background-color: #007BFF;
+    color: white;
+}
+
+tr:nth-child(even) {background-color: #f3f3f3;}
